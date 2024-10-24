@@ -1,0 +1,31 @@
+@charset "utf-8";
+#bigbox{
+    width: 600;
+    height: 720;
+    background-color: #8f7042;
+   
+   
+    
+}.head{
+    width: 300;
+    height: 240;
+    background-color: #fababa;
+    text-align: center;
+   
+}
+.cakes{
+    width: 49%;
+    height: 30;
+    background-color: #ffd392;
+    float: left;
+   margin: 2px;
+    text-align: center;
+}
+.wrap{
+    display: flex;
+}
+.body{
+    background-color: #8f7042;
+}
+
+
